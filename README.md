@@ -1,2 +1,2 @@
-# gsdc
-The Digital Chart for the Greek State is an information system that stores all units of the greek public sector, their tree hierarchy, and the employees serving in each unit. In addition, it records changes to the aforementioned elements and the precise expenses incurred by a unit or an employee on a daily basis.
+# Aftognosia
+The Digital Chart for the Greek State is an information system that stores all units of the greek public sector, their tree hierarchy, and the employees serving in each unit. In addition, it records changes to the aforementioned elements and the precise expenses incurred by a unit or an employee on a daily basis. The name of the system, Aftognosia (= self-awareness), reflects its purpose, that is to make the state aware of its structure, employees, and expenses.
