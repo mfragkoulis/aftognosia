@@ -58,6 +58,7 @@ RUN python3 -m venv ~/.virtualenvs/djangodev && \
 
 
 
+# Open port 5432 for postgresql (We will need this in swarm or :compose mode when thte databse)
 # Open port 5432 for postgresql
 
 

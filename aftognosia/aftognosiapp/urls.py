@@ -12,8 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-from django.shortcuts import render
-from django.http import HttpResponse
+from django.urls import path
+from  . import views
 
-def index(response):
-    return HttpResponse("Greetings! -- The Aftognosia service)")
+urlpatterns = [
+    path('', views.index, name='index'),
+]
